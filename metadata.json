@@ -1,0 +1,5 @@
+{
+  "name": "ThreatOps Enterprise TIP",
+  "description": "Enterprise Threat Intelligence Platform featuring a 13-second IOC triage pipeline, 96.2% ML ensemble classification, Neo4j graph correlation, and automated detection rules.",
+  "requestFramePermissions": []
+}

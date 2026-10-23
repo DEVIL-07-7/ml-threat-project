@@ -1,0 +1,1299 @@
+[
+  {
+    "id": 1,
+    "ioc_value": "http://61.54.235.31:36551/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:46:19.000000",
+    "last_seen": "2026-10-18 18:22:14.936147",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9927,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 2,
+    "ioc_value": "http://103.140.87.105:45962/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mirai",
+      "arm",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:46:19.000000",
+    "last_seen": "2026-10-18 18:22:14.936598",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9928,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 3,
+    "ioc_value": "http://60.17.117.178:52362/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:31:25.000000",
+    "last_seen": "2026-10-18 18:22:14.936598",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9927,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 4,
+    "ioc_value": "http://191.243.174.35:44365/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:31:25.000000",
+    "last_seen": "2026-10-18 18:22:14.937500",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 5,
+    "ioc_value": "http://61.52.1.72:59868/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:17:19.000000",
+    "last_seen": "2026-10-18 18:22:14.937500",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9849,
+    "is_anomaly": false,
+    "risk_score": 84.6
+  },
+  {
+    "id": 6,
+    "ioc_value": "http://210.208.111.36:33179/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 17:17:18.000000",
+    "last_seen": "2026-10-18 18:22:14.937500",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 7,
+    "ioc_value": "http://119.102.73.19:43236/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mirai",
+      "arm",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:50:22.000000",
+    "last_seen": "2026-10-18 18:22:14.938528",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9933,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 8,
+    "ioc_value": "http://61.53.135.7:46609/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "elf",
+      "mips",
+      "Mozi",
+      "32-bit"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:49:19.000000",
+    "last_seen": "2026-10-18 18:22:14.938528",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 9,
+    "ioc_value": "http://46.163.181.104:54484/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:47:13.000000",
+    "last_seen": "2026-10-18 18:22:14.938528",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9927,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 10,
+    "ioc_value": "http://109.236.44.237:53813/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mirai",
+      "arm",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:44:15.000000",
+    "last_seen": "2026-10-18 18:22:14.939541",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9766,
+    "is_anomaly": false,
+    "risk_score": 84.1
+  },
+  {
+    "id": 11,
+    "ioc_value": "http://58.255.43.51:48371/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "elf",
+      "mips",
+      "Mozi",
+      "32-bit"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "offline",
+    "first_seen": "2026-10-18 16:39:39.000000",
+    "last_seen": "2026-10-18 18:22:14.939541",
+    "sighting_count": 3,
+    "feed_confidence": 60,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 77.6
+  },
+  {
+    "id": 12,
+    "ioc_value": "http://60.16.174.24:43977/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:32:12.000000",
+    "last_seen": "2026-10-18 18:22:14.939541",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 13,
+    "ioc_value": "http://60.17.117.178:52362/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:32:12.000000",
+    "last_seen": "2026-10-18 18:22:14.940636",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 14,
+    "ioc_value": "http://220.168.236.38:60522/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:17:16.000000",
+    "last_seen": "2026-10-18 18:22:14.940636",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9928,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 15,
+    "ioc_value": "http://221.202.107.18:41370/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:17:14.000000",
+    "last_seen": "2026-10-18 18:22:14.941498",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9927,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 16,
+    "ioc_value": "http://219.156.115.143:33235/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:17:12.000000",
+    "last_seen": "2026-10-18 18:22:14.941870",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.992,
+    "is_anomaly": false,
+    "risk_score": 85.0
+  },
+  {
+    "id": 17,
+    "ioc_value": "http://109.236.44.237:53813/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mirai",
+      "arm",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:16:12.000000",
+    "last_seen": "2026-10-18 18:22:14.941870",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9856,
+    "is_anomaly": false,
+    "risk_score": 84.6
+  },
+  {
+    "id": 18,
+    "ioc_value": "http://120.28.153.108:41321/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mirai",
+      "arm",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 16:09:23.000000",
+    "last_seen": "2026-10-18 18:22:14.943034",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9934,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 19,
+    "ioc_value": "http://113.53.69.165:46895/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "offline",
+    "first_seen": "2026-10-18 16:02:12.000000",
+    "last_seen": "2026-10-18 18:22:14.943034",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 20,
+    "ioc_value": "http://113.53.69.165:46895/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:47:12.000000",
+    "last_seen": "2026-10-18 18:22:14.944036",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9932,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 21,
+    "ioc_value": "http://182.121.112.125:40520/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "elf",
+      "mips",
+      "Mozi",
+      "32-bit"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:44:16.000000",
+    "last_seen": "2026-10-18 18:22:14.944036",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9741,
+    "is_anomaly": false,
+    "risk_score": 83.9
+  },
+  {
+    "id": 22,
+    "ioc_value": "http://115.58.96.86:53524/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:33:13.000000",
+    "last_seen": "2026-10-18 18:22:14.944908",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 23,
+    "ioc_value": "http://115.55.246.245:32771/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:15.000000",
+    "last_seen": "2026-10-18 18:22:14.944908",
+    "sighting_count": 3,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 24,
+    "ioc_value": "http://115.55.248.100:40930/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:15.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 25,
+    "ioc_value": "http://115.63.165.189:33113/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:15.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9924,
+    "is_anomaly": false,
+    "risk_score": 85.0
+  },
+  {
+    "id": 26,
+    "ioc_value": "http://27.44.144.88:42447/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:15.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9899,
+    "is_anomaly": false,
+    "risk_score": 84.9
+  },
+  {
+    "id": 27,
+    "ioc_value": "http://115.59.230.94:52120/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "mirai"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:14.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 28,
+    "ioc_value": "http://115.55.246.245:32771/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:14.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9933,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 29,
+    "ioc_value": "http://115.57.228.185:44809/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:14.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 30,
+    "ioc_value": "http://115.61.17.94:51620/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 15:32:14.000000",
+    "last_seen": "2026-10-18 17:52:09.203835",
+    "sighting_count": 2,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 31,
+    "ioc_value": "50.16.16.211",
+    "ioc_type": "ipv4",
+    "threat_type": "botnet_c2",
+    "tags": [
+      "QakBot",
+      "port:443"
+    ],
+    "source_feeds": [
+      "Abuse.ch FeodoTracker"
+    ],
+    "status": "online",
+    "first_seen": "2025-12-30 13:56:31.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 4,
+    "feed_confidence": 90,
+    "ml_malicious_prob": 0.496,
+    "is_anomaly": true,
+    "risk_score": 66.8
+  },
+  {
+    "id": 32,
+    "ioc_value": "http://61.53.118.139:54611/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 18:15:16.000000",
+    "last_seen": "2026-10-18 18:22:14.934940",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 33,
+    "ioc_value": "http://118.125.48.121:49307/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "arm",
+      "cowrie",
+      "elf",
+      "honeypot",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-18 18:14:21.000000",
+    "last_seen": "2026-10-18 18:22:14.936147",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9859,
+    "is_anomaly": false,
+    "risk_score": 84.7
+  },
+  {
+    "id": 34,
+    "ioc_value": "https://newcert.s3.us-east-005.backblazeb2.com/ScreenConnect.ClientSetup.exe",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 12:25:11.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.8888,
+    "is_anomaly": true,
+    "risk_score": 88.8
+  },
+  {
+    "id": 35,
+    "ioc_value": "http://60.219.162.27:36889/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 12:20:22.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 36,
+    "ioc_value": "http://60.23.234.248:36741/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 12:04:10.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 37,
+    "ioc_value": "http://119.102.77.73:43236/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "arm",
+      "elf",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 10:53:17.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9934,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 38,
+    "ioc_value": "http://123.4.251.57:35535/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 10:27:18.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9927,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 39,
+    "ioc_value": "http://58.253.129.91:46735/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 10:08:23.000000",
+    "last_seen": "2026-10-20 12:38:37.102596",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9934,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 40,
+    "ioc_value": "http://175.149.73.133:35787/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 10:04:18.000000",
+    "last_seen": "2026-10-20 12:38:37.108806",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9933,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 41,
+    "ioc_value": "http://217.60.196.2/got",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "offline",
+    "first_seen": "2026-10-20 10:01:05.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 60,
+    "ml_malicious_prob": 0.9017,
+    "is_anomaly": false,
+    "risk_score": 72.1
+  },
+  {
+    "id": 42,
+    "ioc_value": "http://42.233.165.218:40107/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 09:13:08.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9936,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 43,
+    "ioc_value": "http://210.208.110.42:43241/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "arm",
+      "elf",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 08:41:17.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 44,
+    "ioc_value": "http://125.47.35.71:57561/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "arm",
+      "elf",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 08:30:26.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9928,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 45,
+    "ioc_value": "https://santaclaracountyproperties.com/curl/28a0700d864a15f5bc551accd41342c59d881f7051555f3ca3a3a5403301628b",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "ClickFix",
+      "macOS",
+      "MacSync",
+      "zsh"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "offline",
+    "first_seen": "2026-10-20 08:28:04.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 60,
+    "ml_malicious_prob": 0.6104,
+    "is_anomaly": true,
+    "risk_score": 64.6
+  },
+  {
+    "id": 46,
+    "ioc_value": "http://113.53.78.164:38897/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "arm",
+      "cowrie",
+      "elf",
+      "honeypot",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "offline",
+    "first_seen": "2026-10-20 08:26:10.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 60,
+    "ml_malicious_prob": 0.993,
+    "is_anomaly": false,
+    "risk_score": 77.6
+  },
+  {
+    "id": 47,
+    "ioc_value": "http://27.215.143.87:33433/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 08:25:22.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 48,
+    "ioc_value": "http://182.127.178.64:45042/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 08:03:18.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9936,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 49,
+    "ioc_value": "http://27.215.143.87:33433/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 08:02:19.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9933,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 50,
+    "ioc_value": "http://176.65.139.148/bins/arm5",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "elf",
+      "mirai",
+      "ua-wget"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:58:17.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.8944,
+    "is_anomaly": false,
+    "risk_score": 79.2
+  },
+  {
+    "id": 51,
+    "ioc_value": "http://42.228.32.100:37587/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:53:15.000000",
+    "last_seen": "2026-10-20 12:38:37.109920",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9934,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 52,
+    "ioc_value": "http://183.35.50.224:38590/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "arm",
+      "elf",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:49:16.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9935,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 53,
+    "ioc_value": "http://42.225.69.1:56329/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:34:07.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9923,
+    "is_anomaly": false,
+    "risk_score": 85.0
+  },
+  {
+    "id": 54,
+    "ioc_value": "http://118.251.13.202:40966/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "arm",
+      "elf",
+      "mirai",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:31:19.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9936,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 55,
+    "ioc_value": "http://123.11.4.67:51620/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:29:19.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 56,
+    "ioc_value": "http://112.248.81.145:57433/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "cowrie",
+      "elf",
+      "honeypot",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:26:49.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9929,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 57,
+    "ioc_value": "http://123.11.4.67:51620/bin.sh",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 07:02:18.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9924,
+    "is_anomaly": false,
+    "risk_score": 85.0
+  },
+  {
+    "id": 58,
+    "ioc_value": "http://42.230.30.10:51216/i",
+    "ioc_type": "url",
+    "threat_type": "malware_download",
+    "tags": [
+      "32-bit",
+      "elf",
+      "mips",
+      "Mozi"
+    ],
+    "source_feeds": [
+      "Abuse.ch URLHaus"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 06:51:09.000000",
+    "last_seen": "2026-10-20 12:38:37.116541",
+    "sighting_count": 1,
+    "feed_confidence": 85,
+    "ml_malicious_prob": 0.9931,
+    "is_anomaly": false,
+    "risk_score": 85.1
+  },
+  {
+    "id": 59,
+    "ioc_value": "192.168.1.100",
+    "ioc_type": "ipv4",
+    "threat_type": "org_internal_telemetry",
+    "tags": [
+      "org:Internal-SOC",
+      "firewall"
+    ],
+    "source_feeds": [
+      "ClientOrg-Internal-SOC"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 14:00:33.672426",
+    "last_seen": "2026-10-20 14:00:33.672426",
+    "sighting_count": 1,
+    "feed_confidence": 70,
+    "ml_malicious_prob": null,
+    "is_anomaly": false,
+    "risk_score": 65.6
+  },
+  {
+    "id": 60,
+    "ioc_value": "185.220.101.45:3389",
+    "ioc_type": "ipv4",
+    "threat_type": "org_internal_telemetry",
+    "tags": [
+      "org:Internal-SOC",
+      "firewall"
+    ],
+    "source_feeds": [
+      "ClientOrg-Internal-SOC"
+    ],
+    "status": "online",
+    "first_seen": "2026-10-20 14:00:33.672426",
+    "last_seen": "2026-10-20 14:00:33.672426",
+    "sighting_count": 1,
+    "feed_confidence": 70,
+    "ml_malicious_prob": null,
+    "is_anomaly": false,
+    "risk_score": 77.8
+  }
+]
